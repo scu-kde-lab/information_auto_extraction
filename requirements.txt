@@ -1,0 +1,6 @@
+openai
+langchain
+unstructured
+pdf2image
+pytesseract
+PyMuPDF
